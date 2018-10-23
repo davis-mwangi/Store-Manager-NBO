@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, Blueprint
-from flask_restful import Api
+from flask_restful import Api, Resource
 
 
 from .api.v1.models.user import User
@@ -31,3 +31,8 @@ api.add_resource(SaleResource, '/sales/<int:sale_id>')
 app = Flask(__name__)
 app.secret_key = 'David'
 app.register_blueprint(blueprint)
+
+
+@app.route('/')
+def index():
+    return jsonify({"message": "Welcome to My Store Manager API"})
