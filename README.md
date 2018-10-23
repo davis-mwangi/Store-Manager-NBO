@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/davis-mwangi/Store-Manager-NBO.svg?branch=challenge-2)](https://travis-ci.org/davis-mwangi/Store-Manager-NBO)
-[![Coverage Status](https://coveralls.io/repos/github/davis-mwangi/Store-Manager-NBO/badge.svg?branch=challenge-2)](https://coveralls.io/github/davis-mwangi/Store-Manager?branch=challenge-2)
+[![Coverage Status](https://coveralls.io/repos/github/davis-mwangi/Store-Manager-NBO/badge.svg?branch=challenge-2)](https://coveralls.io/github/davis-mwangi/Store-Manager-NBO?branch=challenge-2)
 [![Maintainability](https://api.codeclimate.com/v1/badges/b6c90ff724acbd039944/maintainability)](https://codeclimate.com/github/davis-mwangi/Store-Manager-NBO/maintainability)
 
 # Store Manager
